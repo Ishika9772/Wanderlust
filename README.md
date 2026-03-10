@@ -48,14 +48,23 @@ A full-stack web application inspired by Airbnb that allows users to explore, cr
 ## 📁 Project Structure
 
 Wanderlust
+
 │
+
 ├── models
+
 ├── routes
+
 ├── controllers
+
 ├── views
+
 ├── public
+
 ├── utils
+
 ├── app.js
+
 ├── package.json
 
 ## ⚙️ Installation
