@@ -71,9 +71,13 @@ npm install
 Create a .env file and add the following variables:
 
 ATLASDB_URL=your_database_url
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_KEY=your_key
+
 CLOUDINARY_SECRET=your_secret
+
 SESSION_SECRET=your_secret
 
 Run the project:  npm start
